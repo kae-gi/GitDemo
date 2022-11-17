@@ -2,4 +2,4 @@
 
 Changed the file.
 
-Changed the file from branch2.
+Changed the file from master to fix merge conflict from branch2 and branch3.
